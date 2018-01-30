@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520232226089",
+    "firebase_url": "https://contacts-fd83c.firebaseio.com",
+    "project_id": "contacts-fd83c",
+    "storage_bucket": "contacts-fd83c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520232226089:android:139512ac9d802974",
+        "android_client_info": {
+          "package_name": "com.tom.firecontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520232226089-rhhrfu76jjtotqlpolqsdgd3vee0haaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tom.firecontacts",
+            "certificate_hash": "5343f98bf793e83f1286f7840e4945d41a9a33ee"
+          }
+        },
+        {
+          "client_id": "520232226089-33h32s5ih225l2esqfaq01htdnp6djse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiByJKtCIsIX89t4qEQWpDrfDrS8USzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520232226089-33h32s5ih225l2esqfaq01htdnp6djse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
